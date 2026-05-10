@@ -1,13 +1,19 @@
 ---
 ---
+
 @import "{{ site.theme }}";
 
 body {
-  background-color: black;
-  color: white;
-  font-family: "Helvetica";
+  background: #050816;
+  color: #dce6ff;
 }
 
+
 a {
-  color: #66ccff;
+  color: #7cc7ff;
+  text-decoration: none;
+}
+a:hover {
+  color: #ffffff;
+  text-decoration: underline;
 }
