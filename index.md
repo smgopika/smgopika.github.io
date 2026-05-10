@@ -7,4 +7,4 @@
 
 ## Current Work
 
-Studying dust dynamics in the protoplanetary disks using numerical simulations.
+Studying dust dynamics in protoplanetary disks using numerical simulations.
