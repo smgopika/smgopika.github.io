@@ -1,3 +1,13 @@
 ---
 ---
 @import "{{ site.theme }}";
+
+body {
+  background-color: black;
+  color: white;
+  font-family: "Helvetica";
+}
+
+a {
+  color: #66ccff;
+}
