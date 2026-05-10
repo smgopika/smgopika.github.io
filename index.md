@@ -12,9 +12,7 @@ Studying dust dynamics in protoplanetary disks using numerical simulations.
 
 ## Previous Work
 
-Before coming to Purdue, my work spanned a range of computational and theoretical astrophysics problems, with a strong focus on numerical methods and data-driven approaches.
-
-
+Before coming to Purdue, I worked on a variety of computational and theoretical astrophysics problems spanning different physical systems.
 
 - Jet formation and energetics in black hole systems using General Relativistic MHD simulations  
 - Neutron star structure and mass–radius relations via numerical solutions of the TOV equations ([View Code on GitHub](https://github.com/smgopika/tov-equation-solver))  
@@ -23,4 +21,6 @@ Before coming to Purdue, my work spanned a range of computational and theoretica
 
 [**Google Scholar**](https://scholar.google.com/citations?user=kzn8HSwAAAAJ&hl=en)
 
-**For General Audience:** [Articles](https://www.scienceabc.com/author/gopikasm/)
+**Public Writing:** [Articles for a General Audience](https://www.scienceabc.com/author/gopikasm/)
+
+
