@@ -8,7 +8,17 @@ body {
   color: #d6e6ff;
 }
 
-/* Subtle link styling */
+.page-header {
+  background: #050816 !important;
+}
+
+.project-name {
+  color: #d6e6ff !important;
+}
+
+.project-tagline {
+  color: #9bb3d4 !important;
+}
 a {
   color: #7cc7ff;
   text-decoration: none;
