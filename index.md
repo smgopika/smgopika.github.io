@@ -8,3 +8,16 @@
 ## Current Work
 
 Studying dust dynamics in protoplanetary disks using numerical simulations.
+
+## Previous Research Experience
+
+Before coming to Purdue, my work spanned a range of computational and theoretical astrophysics problems, with a strong focus on numerical methods and data-driven approaches.
+
+I have worked on:
+
+- Jet formation and energetics in black hole systems using General Relativistic MHD simulations  
+- Neutron star structure and mass–radius relations via numerical solutions of the TOV equations  ([View Code on GitHub](https://github.com/smgopika/tov-equation-solver))
+- Radio observations of AGN jets using interferometric data (e-MERLIN + CASA)  
+- Machine learning models for forecasting solar wind variability  
+
+Across these projects, a consistent theme has been the use of computational tools to understand complex astrophysical systems. 
