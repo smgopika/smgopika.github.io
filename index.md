@@ -21,4 +21,4 @@ I have worked on:
 - Radio observations of AGN jets using interferometric data (e-MERLIN + CASA)  
 - Machine learning models for forecasting solar wind variability  
 
-**Google Scholar:** https://scholar.google.com/citations?user=YOUR_ID_HERE
+**Google Scholar:** https://scholar.google.com/citations?user=kzn8HSwAAAAJ&hl=en
