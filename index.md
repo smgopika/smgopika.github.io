@@ -1,11 +1,7 @@
-# Gopika SM
 
-Graduate Student at Purdue University, working on computational astrophysics, especially on protoplanetary disks at the moment.
-
+Graduate Student at Purdue University, working on computational astrophysics, especially protoplanetary disks.
 
 ## Research Interests
 
-- Numerical Hydrodynamics in Astrophysics
-- Planet- Disk interactions
-- Anything that involves disks, always amused about how some structures are everywhere.
-  
+- Numerical hydrodynamics
+- Planet-disk interactions
